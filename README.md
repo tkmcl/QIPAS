@@ -8,4 +8,7 @@ Workflows in place (fully/partially tested) are:
 - automated CTD stacking within a block to determine fluid contacts
 - automated above/below contact amplitude analysis to extract (ML-style) features that allow for the correlation of amplitude/attributes with fluid presence
 
+Contents:
+- QItools.py: analyze the seismic DHI features
+
 <i>kudos to Yuanzhong Fan for drafting the majority of the code</i>
